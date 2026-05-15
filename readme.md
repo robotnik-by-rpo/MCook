@@ -1,12 +1,11 @@
 # Telegram bot: MCook
-[logo](logo.png)
+![logo](logo.png)
 ## License
 ### Documentation and Content
 This repository contains **only documentation, descriptions, and screenshots** of the MCook Telegram bot. The source code of the bot is **private and not published**.
 Copyright (c) 2026 [robotnik-by-rpo]
 This work is licensed under the **Creative Commons Attribution 4.0 International License** (CC BY 4.0).
 
-!
 
 ### Description
 My project is a telegram bot. If you have leftover ingredients and you don't know what to cook today, my bot will help you. You can point your range price and write in Telegram about your meal and products which you have, and bot will offer 2 dishes for you.
